@@ -27,8 +27,8 @@ class Solution {
             return;
         }
 
-        inorder(root.left, result);   // Left
-        result.add(root.val);         // Root
-        inorder(root.right, result);  // Right
+        inorder(root.left, result);
+        result.add(root.val); 
+        inorder(root.right, result);
     }
 }
