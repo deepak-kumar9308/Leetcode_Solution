@@ -1,22 +1,22 @@
 class Solution {
     public int firstStableIndex(int[] nums, int s) {
-        for(int i=0;i<nums.length;i++){
-              int max=nums[0];
-            for(int j=0;j<=i;j++){
-                if(max<nums[j]){
-                    max=nums[j];
-                }
-            }
-             int min=nums[i];
-            for(int k=i;k<nums.length;k++){
-                if(min>nums[k]){
-                    min=nums[k];
-                }
-            }
-            if((max-min)<=s){
+        int n = nums.length;
+        if (n == 0) return -1;
+
+        int[] minSuffix = new int[n];
+        minSuffix[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            minSuffix[i] = Math.min(nums[i], minSuffix[i + 1]);
+        }
+
+        int maxPrefix = nums[0];
+        for (int i = 0; i < n; i++) {
+            maxPrefix = Math.max(maxPrefix, nums[i]);
+            if (maxPrefix - minSuffix[i] <= s) {
                 return i;
             }
         }
+
         return -1;
     }
 }
