@@ -12,7 +12,7 @@ class Solution {
 
             while (set.contains(s.charAt(right))) {
                 set.remove(s.charAt(left));
-                left++;
+                left+=1;
             }
 
             set.add(s.charAt(right));
