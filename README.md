@@ -26,4 +26,8 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0100-same-tree/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1683-invalid-tweets](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
