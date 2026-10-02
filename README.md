@@ -30,4 +30,5 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1683-invalid-tweets](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1683-invalid-tweets/) | Easy |
+| [1795-rearrange-products-table](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1795-rearrange-products-table/) | Easy |
 <!---LeetCode Topics End-->
