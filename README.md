@@ -5,6 +5,7 @@ THis Repo is for Solution of leetcode problem
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -31,4 +32,12 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1683-invalid-tweets](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1683-invalid-tweets/) | Easy |
 | [1795-rearrange-products-table](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1795-rearrange-products-table/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
