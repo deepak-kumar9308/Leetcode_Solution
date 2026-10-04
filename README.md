@@ -6,6 +6,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -41,4 +42,9 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 <!---LeetCode Topics End-->
