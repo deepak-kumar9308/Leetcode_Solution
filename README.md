@@ -14,6 +14,7 @@ THis Repo is for Solution of leetcode problem
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Tree
@@ -73,4 +74,12 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
