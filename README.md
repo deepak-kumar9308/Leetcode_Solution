@@ -13,6 +13,7 @@ THis Repo is for Solution of leetcode problem
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## String
@@ -75,6 +76,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
