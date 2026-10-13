@@ -10,6 +10,7 @@ THis Repo is for Solution of leetcode problem
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -22,6 +23,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
