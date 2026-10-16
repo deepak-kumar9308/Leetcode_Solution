@@ -11,6 +11,7 @@ THis Repo is for Solution of leetcode problem
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -84,6 +85,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Bit Manipulation
