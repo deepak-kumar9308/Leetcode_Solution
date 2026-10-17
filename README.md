@@ -21,6 +21,7 @@ THis Repo is for Solution of leetcode problem
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ THis Repo is for Solution of leetcode problem
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +90,7 @@ THis Repo is for Solution of leetcode problem
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
