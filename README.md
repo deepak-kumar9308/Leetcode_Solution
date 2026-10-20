@@ -22,6 +22,7 @@ THis Repo is for Solution of leetcode problem
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
@@ -79,6 +80,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
