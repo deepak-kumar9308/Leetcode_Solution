@@ -6,6 +6,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -85,6 +86,7 @@ THis Repo is for Solution of leetcode problem
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -142,6 +144,7 @@ THis Repo is for Solution of leetcode problem
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
