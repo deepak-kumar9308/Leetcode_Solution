@@ -27,6 +27,7 @@ THis Repo is for Solution of leetcode problem
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
