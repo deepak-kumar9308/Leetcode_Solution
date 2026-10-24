@@ -34,6 +34,7 @@ THis Repo is for Solution of leetcode problem
 | [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2942-find-words-containing-character/) | Easy |
 ## Tree
@@ -86,6 +87,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Simulation
