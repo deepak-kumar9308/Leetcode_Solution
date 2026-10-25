@@ -61,6 +61,7 @@ THis Repo is for Solution of leetcode problem
 | [0184-department-highest-salary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0184-department-highest-salary/) | Medium |
 | [0607-sales-person](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0610-triangle-judgement/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1393-capital-gainloss](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1393-capital-gainloss/) | Medium |
 | [1683-invalid-tweets](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1683-invalid-tweets/) | Easy |
 | [1795-rearrange-products-table](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1795-rearrange-products-table/) | Easy |
