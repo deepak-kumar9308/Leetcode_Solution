@@ -1,11 +1,17 @@
 class Solution {
     public int buyChoco(int[] prices, int money) {
         int n=prices.length;
-        Arrays.sort(prices);
-        int total=prices[0]+prices[1];
-        if(total<=money){
-            return money-total;
+        int first=Integer.MAX_VALUE;
+        int second=Integer.MAX_VALUE;
+        for(int price:prices){
+            if(price<first){
+                second=first;
+                first=price;
+            }else if(price<second){
+                second=price;
+            }
         }
-        return money;
+        int total=first+second;
+        return total<=money?money-total:money;
     }
 }
