@@ -6,6 +6,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -70,12 +71,14 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
