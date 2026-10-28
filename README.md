@@ -37,6 +37,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -112,6 +113,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
