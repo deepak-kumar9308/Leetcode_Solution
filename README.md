@@ -61,6 +61,7 @@ THis Repo is for Solution of leetcode problem
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0184-department-highest-salary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0184-department-highest-salary/) | Medium |
 | [0607-sales-person](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0610-triangle-judgement/) | Easy |
