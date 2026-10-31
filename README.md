@@ -7,6 +7,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
+| [0040-combination-sum-ii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -156,6 +157,7 @@ THis Repo is for Solution of leetcode problem
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0040-combination-sum-ii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
