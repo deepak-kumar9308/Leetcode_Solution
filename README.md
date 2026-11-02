@@ -34,6 +34,7 @@ THis Repo is for Solution of leetcode problem
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ THis Repo is for Solution of leetcode problem
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ THis Repo is for Solution of leetcode problem
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
