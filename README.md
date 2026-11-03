@@ -35,6 +35,7 @@ THis Repo is for Solution of leetcode problem
 | [3502-minimum-cost-to-reach-every-position](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@ THis Repo is for Solution of leetcode problem
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
