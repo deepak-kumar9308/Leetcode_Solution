@@ -11,6 +11,7 @@ THis Repo is for Solution of leetcode problem
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -81,6 +82,7 @@ THis Repo is for Solution of leetcode problem
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 ## Sorting
@@ -88,6 +90,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [0015-3sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -154,6 +157,7 @@ THis Repo is for Solution of leetcode problem
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Prefix Sum
