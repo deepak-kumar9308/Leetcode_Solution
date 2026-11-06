@@ -38,6 +38,7 @@ THis Repo is for Solution of leetcode problem
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ THis Repo is for Solution of leetcode problem
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
