@@ -19,6 +19,7 @@ THis Repo is for Solution of leetcode problem
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -95,6 +96,7 @@ THis Repo is for Solution of leetcode problem
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -148,6 +150,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
