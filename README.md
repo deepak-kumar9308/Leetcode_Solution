@@ -45,6 +45,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0043-multiply-strings/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
