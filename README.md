@@ -119,6 +119,7 @@ THis Repo is for Solution of leetcode problem
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -216,4 +217,8 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2706-buy-two-chocolates/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2413-smallest-even-multiple](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 <!---LeetCode Topics End-->
