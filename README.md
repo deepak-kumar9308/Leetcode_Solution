@@ -115,6 +115,7 @@ THis Repo is for Solution of leetcode problem
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -148,6 +149,7 @@ THis Repo is for Solution of leetcode problem
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Counting
