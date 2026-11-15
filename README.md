@@ -9,6 +9,7 @@ THis Repo is for Solution of leetcode problem
 | [0016-3sum-closest](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0016-3sum-closest/) | Medium |
 | [0040-combination-sum-ii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0447-number-of-boomerangs/) | Medium |
 | [0867-transpose-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -118,6 +119,7 @@ THis Repo is for Solution of leetcode problem
 | [0029-divide-two-integers](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
+| [0447-number-of-boomerangs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0447-number-of-boomerangs/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
@@ -138,6 +140,7 @@ THis Repo is for Solution of leetcode problem
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0447-number-of-boomerangs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/0447-number-of-boomerangs/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
