@@ -36,6 +36,7 @@ P     I
 
 <p><strong class="example">Example 3:</strong></p>
 
+
 <pre>
 <strong>Input:</strong> s = &quot;A&quot;, numRows = 1
 <strong>Output:</strong> &quot;A&quot;
