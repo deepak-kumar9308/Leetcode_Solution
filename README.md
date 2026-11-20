@@ -33,6 +33,7 @@ THis Repo is for Solution of leetcode problem
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -106,6 +107,7 @@ THis Repo is for Solution of leetcode problem
 | [2733-neither-minimum-nor-maximum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -225,6 +227,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3074-apple-redistribution-into-boxes](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
