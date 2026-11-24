@@ -37,6 +37,7 @@ THis Repo is for Solution of leetcode problem
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -131,6 +132,7 @@ THis Repo is for Solution of leetcode problem
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +222,7 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1652-defuse-the-bomb/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,4 +237,5 @@ THis Repo is for Solution of leetcode problem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
