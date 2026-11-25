@@ -57,6 +57,7 @@ THis Repo is for Solution of leetcode problem
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2942-find-words-containing-character/) | Easy |
+| [3110-score-of-a-string](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3110-score-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
