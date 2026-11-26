@@ -133,6 +133,7 @@ THis Repo is for Solution of leetcode problem
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
@@ -145,6 +146,7 @@ THis Repo is for Solution of leetcode problem
 | [2500-delete-greatest-value-in-each-row](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3360-stone-removal-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3360-stone-removal-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
