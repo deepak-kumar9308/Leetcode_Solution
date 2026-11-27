@@ -58,6 +58,7 @@ THis Repo is for Solution of leetcode problem
 | [2678-number-of-senior-citizens](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2942-find-words-containing-character](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3110-score-of-a-string/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ THis Repo is for Solution of leetcode problem
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +149,7 @@ THis Repo is for Solution of leetcode problem
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3360-stone-removal-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3360-stone-removal-game/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
