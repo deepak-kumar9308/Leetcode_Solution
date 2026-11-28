@@ -34,6 +34,7 @@ THis Repo is for Solution of leetcode problem
 | [2974-minimum-number-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -133,6 +134,7 @@ THis Repo is for Solution of leetcode problem
 | [2409-count-days-spent-together](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3360-stone-removal-game](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3360-stone-removal-game/) | Easy |
@@ -160,6 +162,7 @@ THis Repo is for Solution of leetcode problem
 | [2215-find-the-difference-of-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3731-find-missing-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Bit Manipulation
@@ -173,6 +176,7 @@ THis Repo is for Solution of leetcode problem
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/deepak-kumar9308/Leetcode_Solution/tree/main/3153-sum-of-digit-differences-of-all-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
